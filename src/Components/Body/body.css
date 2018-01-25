@@ -1,0 +1,36 @@
+.white {
+background-color: #ECE9E1;
+padding: 100px 100px 100px 100px;
+}
+.blue {
+height: 726px;
+background-color:#353F4F;
+}
+.curve{
+transition: all 1.5s cubic-bezier(0.75, 0.25, 0.25, 0.75)
+}
+.curveTwo{
+transition: all 1.2s cubic-bezier(0.75, 0.25, 0.25, 0.75)
+}
+.hat{
+margin: -90px;
+height: 100%;
+width: 150px;
+}
+.marginh, h2{
+margin-top: -180px;
+color: white;
+}
+.second h2{
+margin-bottom: 40px;
+}
+.me{
+margin-bottom:40px;
+width: 200px;
+height: 200px;
+border-radius: 50%;
+border: 3px solid #353F4F;
+}
+.margin{
+
+}
